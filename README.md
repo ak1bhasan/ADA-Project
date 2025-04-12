@@ -13,6 +13,25 @@
 ## Project Overview
 This C++ implementation provides a complete visual walkthrough of the 0/1 Knapsack solution, from input collection to final DP table computation.
 
+## Why 0/1 Knapsack?
+The 0/1 Knapsack problem is fundamental in computer science because:
+
+🔹 **Algorithmic Importance**  
+- Classic example for dynamic programming
+- Demonstrates optimal substructure and overlapping subproblems
+- Benchmark for comparing greedy vs DP approaches
+
+🔹 **Real-World Applications**  
+- Resource allocation in cloud computing
+- Portfolio optimization in finance
+- Cryptographic systems design
+- Inventory management systems
+
+🔹 **Educational Value**  
+- Teaches problem decomposition
+- Illustrates time-space tradeoffs
+- Introduces pseudo-polynomial time complexity
+
 ## Demonstration Video
 📺 [Watch Full Visualization Demo](https://drive.google.com/drive/folders/1wZOcLGQ8Fkq8a_P3KYgNlVRuTm49FFCL?usp=drive_link)
 
