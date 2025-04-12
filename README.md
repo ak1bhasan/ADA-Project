@@ -33,7 +33,7 @@ The 0/1 Knapsack problem is fundamental in computer science because:
 - Introduces pseudo-polynomial time complexity
 
 ## Demonstration Video
-📺 [Watch Full Visualization Demo](https://drive.google.com/drive/folders/1wZOcLGQ8Fkq8a_P3KYgNlVRuTm49FFCL?usp=drive_link)
+📺 [Watch Full Visualization Demo](https://drive.google.com/file/d/1utNR_ZBVT-t0g1u3-G-TfaIVZ5fX3zeK/view?usp=sharing)
 
 ## Key Features
 - **Complete Process Visualization** - From input to final solution  
