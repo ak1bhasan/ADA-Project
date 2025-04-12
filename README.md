@@ -41,8 +41,3 @@ The 0/1 Knapsack problem is fundamental in computer science because:
 - **Decision Tracking** - Understand each include/exclude choice  
 - **Educational Focus** - Designed for algorithm learning  
 - **Interactive Input** - User-friendly console interface  
-
-## How to Run
-1. **Compile the program**:
-   ```bash
-   g++ knapsack_visualization.cpp -o knapsack
