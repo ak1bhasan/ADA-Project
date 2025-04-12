@@ -17,13 +17,13 @@ This C++ implementation provides a complete visual walkthrough of the 0/1 Knapsa
 📺 [Watch Full Visualization Demo](https://drive.google.com/drive/folders/1wZOcLGQ8Fkq8a_P3KYgNlVRuTm49FFCL?usp=drive_link)
 
 ## Key Features
-- **Complete Process Visualization** - From input to final solution
-- **Step-by-Step Execution** - See each DP table update
-- **Decision Tracking** - Understand each include/exclude choice
-- **Educational Focus** - Designed for algorithm learning
-- **Interactive Input** - User-friendly console interface
+- **Complete Process Visualization** - From input to final solution  
+- **Step-by-Step Execution** - See each DP table update  
+- **Decision Tracking** - Understand each include/exclude choice  
+- **Educational Focus** - Designed for algorithm learning  
+- **Interactive Input** - User-friendly console interface  
 
 ## How to Run
-1. Compile the program:
-```bash
-g++ knapsack_visualization.cpp -o knapsack
+1. **Compile the program**:
+   ```bash
+   g++ knapsack_visualization.cpp -o knapsack
