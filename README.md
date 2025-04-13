@@ -1,7 +1,7 @@
 # 0/1 Knapsack Problem Visualization - Dynamic Programming Implementation
 
 ## Course Information
-- **Course Name:** Algorithm Design and Analysis  
+- **Course Name:** Algorithm Design and Analysis LAB 
 - **Course Code:** CSE 232  
 - **Faculty:** Nasif Istiak Remon  
 - **Position:** Lecturer, Department of CSE  
