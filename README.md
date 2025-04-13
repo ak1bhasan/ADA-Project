@@ -7,7 +7,7 @@
 
 ## Project Team
 - [Md. Masudul Hasan Akib](https://github.com/ak1bhasan)  
-- Jibran Masum Didar  
+- [Jibran Masum Didar](https://github.com/jmdidar9988)
 
 ## Project Overview
 This C++ implementation provides a complete visual walkthrough of the 0/1 Knapsack solution, from input collection to final DP table computation.
