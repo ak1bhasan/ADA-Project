@@ -2,7 +2,7 @@
 
 ## Course Information
 - **Course Name:** Algorithm Design and Analysis  
-- **Course Code:** CSE 231  
+- **Course Code:** CSE 232  
 - **Faculty:** Nasif Istiak Remon  
 - **Position:** Lecturer, Department of CSE  
 
