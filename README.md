@@ -1,5 +1,4 @@
-# 0/1 Knapsack Problem Visualization - Dynamic Programming Implementation
-
+# Interactive Visualizer for the 0/1 Knapsack Problem using Dynamic Programming
 ## Course Information
 - **Course Name:** Algorithm Design and Analysis LAB 
 - **Course Code:** CSE 232  
